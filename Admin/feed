@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Midway - Responsive Travel Theme</title>
+	<atom:link href="http://themextemplates.com/demo/midway/feed" rel="self" type="application/rss+xml" />
+	<link>http://themextemplates.com/demo/midway</link>
+	<description></description>
+	<lastBuildDate>Mon, 06 Jan 2014 10:47:47 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.7.8</generator>
+	<item>
+		<title>How to Survive the Sahara</title>
+		<link>http://themextemplates.com/demo/midway/guides/how-to-survive-the-sahara</link>
+		<comments>http://themextemplates.com/demo/midway/guides/how-to-survive-the-sahara#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:34:00 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://travel.loc/?p=1</guid>
+		<description><![CDATA[<p>Donec vel ante neque. Morbi sit amet libero est, eget vehicula odio. Aliquam et tellus quam, vitae congue felis. In purus.</p>
+
+<p>Nullam fringilla lobortis dui blandit aliquet. Donec fringilla est nec tort condimentum quis facilisis felis condimentum. Praesent tellus sem, faucibus id scelerisque eu, tempus a ligula. Integer facilisis enim nec.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/guides/how-to-survive-the-sahara/feed</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Everything About Thailand</title>
+		<link>http://themextemplates.com/demo/midway/guides/everything-about-thailand</link>
+		<comments>http://themextemplates.com/demo/midway/guides/everything-about-thailand#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:33:19 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=205</guid>
+		<description><![CDATA[<p>Praesent tincidunt, massa vitae ultricies dapibus, ligula mauris pulvinar arcu, ac aliquet nulla arcu id velit consequat quis accumsan dignissim.</p><p>Vestibulum ut dui sed sem congue tristique et eget leo. Praesent eget velit arcu. Vivamus sagittis luctus mauris, sed egestas mi auctor iniq. Proin lobortis, justo eu volutpat rhoncus, ipsum augue tempor felis, idis sagittis orci purus in enim metus condimentum.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/guides/everything-about-thailand/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>First Week in Indonesia</title>
+		<link>http://themextemplates.com/demo/midway/promotions/first-week-in-indonesia</link>
+		<comments>http://themextemplates.com/demo/midway/promotions/first-week-in-indonesia#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:32:36 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[dolore]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=203</guid>
+		<description><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer porta velit et metus rutrum ut faucibus.</p><p>Mauris magna orci, auctor id vestibulum vitae, vestibulum venenatis lectus. Praesent varius viverra sem consequat iaculis. Cras faucibus, diam ac consequat convallis, risus dui ultrices ipsum, molestie faucibus nibh massa non nibh. Morbi et metus libero condimentum quis.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/promotions/first-week-in-indonesia/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Mystery of Stonehenge</title>
+		<link>http://themextemplates.com/demo/midway/guides/the-mystery-of-stonehenge</link>
+		<comments>http://themextemplates.com/demo/midway/guides/the-mystery-of-stonehenge#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=201</guid>
+		<description><![CDATA[<p>Nunc aliquet eros nec mi consequat eget accumsan diam faucibus. Sed sit amet justo id turpis tempus vehicula eu non tellus. Quisque est.</p><p>Donec et scelerisque quam. Aliquam laoreet, orci vitae iaculis etna accumsan, dolor dolor condimentum arcu, ornare scelerisque magna quam ac ligula. Aliquam sit amet nibh lacus. Aenean lobortis congue varius. Nunc venenatis arcu et mi pellentesque dapibus.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/guides/the-mystery-of-stonehenge/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quisque Condimentum Sapien</title>
+		<link>http://themextemplates.com/demo/midway/guides/quisque-condimentum-sapien-2</link>
+		<comments>http://themextemplates.com/demo/midway/guides/quisque-condimentum-sapien-2#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[erat]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=199</guid>
+		<description><![CDATA[<p>Nunc aliquet eros nec mi consequat eget accumsan diam faucibus. Sed sit amet justo id turpis tempus vehicula eu non tellus. Quisque est.</p><p>Donec et scelerisque quam. Aliquam laoreet, orci vitae iaculis etna accumsan, dolor dolor condimentum arcu, ornare scelerisque magna quam ac ligula. Aliquam sit amet nibh lacus. Aenean lobortis congue varius. Nunc venenatis arcu et mi pellentesque dapibus.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/guides/quisque-condimentum-sapien-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vestibulum Semper Suscipit</title>
+		<link>http://themextemplates.com/demo/midway/news/vestibulum-semper-suscipit-2</link>
+		<comments>http://themextemplates.com/demo/midway/news/vestibulum-semper-suscipit-2#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:28:55 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolore]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=197</guid>
+		<description><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Integer porta velit et metus rutrum ut faucibus.</p><p>Mauris magna orci, auctor id vestibulum vitae, vestibulum venenatis lectus. Praesent varius viverra sem consequat iaculis. Cras faucibus, diam ac consequat convallis, risus dui ultrices ipsum, molestie faucibus nibh massa non nibh. Morbi et metus libero condimentum quis.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/news/vestibulum-semper-suscipit-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Donec Tempor Quis</title>
+		<link>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis-2</link>
+		<comments>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis-2#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=194</guid>
+		<description><![CDATA[<p>Nunc aliquet eros nec mi consequat eget accumsan diam faucibus. Sed sit amet justo id turpis tempus vehicula eu non tellus. Quisque est.</p><p>Donec et scelerisque quam. Aliquam laoreet, orci vitae iaculis etna accumsan, dolor dolor condimentum arcu, ornare scelerisque magna quam ac ligula. Aliquam sit amet nibh lacus. Aenean lobortis congue varius. Nunc venenatis arcu et mi pellentesque dapibus.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vestibulum Quis Purus</title>
+		<link>http://themextemplates.com/demo/midway/guides/vestibulum-quis-purus-2</link>
+		<comments>http://themextemplates.com/demo/midway/guides/vestibulum-quis-purus-2#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:27:39 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[amet]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=192</guid>
+		<description><![CDATA[<p>Praesent tincidunt, massa vitae ultricies dapibus, ligula mauris pulvinar arcu, ac aliquet nulla arcu id velit consequat quis accumsan dignissim.</p><p>Vestibulum ut dui sed sem congue tristique et eget leo. Praesent eget velit arcu. Vivamus sagittis luctus mauris, sed egestas mi auctor iniq. Proin lobortis, justo eu volutpat rhoncus, ipsum augue tempor felis, idis sagittis orci purus in enim metus condimentum.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/guides/vestibulum-quis-purus-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Donec Tempor Quis</title>
+		<link>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis</link>
+		<comments>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:26:17 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=189</guid>
+		<description><![CDATA[<p>Nunc aliquet eros nec mi consequat eget accumsan diam faucibus. Sed sit amet justo id turpis tempus vehicula eu non tellus. Quisque est.</p><p>Donec et scelerisque quam. Aliquam laoreet, orci vitae iaculis etna accumsan, dolor dolor condimentum arcu, ornare scelerisque magna quam ac ligula. Aliquam sit amet nibh lacus. Aenean lobortis congue varius. Nunc venenatis arcu et mi pellentesque dapibus.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/promotions/donec-tempor-quis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Vestibulum Quis Purus</title>
+		<link>http://themextemplates.com/demo/midway/news/vestibulum-quis-purus</link>
+		<comments>http://themextemplates.com/demo/midway/news/vestibulum-quis-purus#comments</comments>
+		<pubDate>Sat, 24 Nov 2012 12:23:31 +0000</pubDate>
+		<dc:creator><![CDATA[Themex]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[dolor]]></category>
+		<category><![CDATA[ipsum]]></category>
+		<category><![CDATA[lorem]]></category>
+
+		<guid isPermaLink="false">http://themextemplates.com/demo/midway/?p=185</guid>
+		<description><![CDATA[<p>Praesent tincidunt, massa vitae ultricies dapibus, ligula mauris pulvinar arcu, ac aliquet nulla arcu id velit consequat quis accumsan dignissim.</p><p>Vestibulum ut dui sed sem congue tristique et eget leo. Praesent eget velit arcu. Vivamus sagittis luctus mauris, sed egestas mi auctor iniq. Proin lobortis, justo eu volutpat rhoncus, ipsum augue tempor felis, idis sagittis orci purus in enim metus condimentum.</p>]]></description>
+				<content:encoded><![CDATA[<p>Aliquam metus felis, tempus vitae mollis quis, mollis sit amet purus. Suspendisse eget lorem elit. In non mi sed quam porta rutrum. Nunc suscipit rutrum neque, eu mattis ipsum convallis ut. Aliquam sed lacus dolor, sit amet pellentesque augue. Phasellus congue neque sed mauris aliquet vitae semper enim consectetur aliquam mauris ante sit amet ipsum.</p><p>Etiam eget congue enim. Sed sit amet lobortis diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec risus orci, eleifend ut mattis non, dapibus at sem. Donec quis purus vitae ipsum consequat ornare in eget arcu. Proin adipiscing, nibh vel sodales iaculis, lacus nibh imperdiet dolor, at aliquam mauris ante sit amet ipsum. Cras vitae arcu sem. Pellentesque vehicula leo nec lectus tristique rhoncus. Donec varius pretium placerat.</p>]]></content:encoded>
+			<wfw:commentRss>http://themextemplates.com/demo/midway/news/vestibulum-quis-purus/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
